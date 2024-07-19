@@ -1,6 +1,5 @@
-# Stock Portfolio Suggestion Engine
-
-**Final project for CMPE 285 - SJSU Spring 2024**
+# WealthWise
+This project is about a stock portfolio suggestion engine, The engine is assigned some stocks and ETFs mapped to a specific investment strategy, the User can enter an investment amount and type of investment strategy up to 2, and then the engine suggests the latest price analysis and investment strategies.
 
 ## Use Case:
 
